@@ -1,0 +1,4 @@
+#ignores .pdf and .html files
+
+*.pdf
+*.html
