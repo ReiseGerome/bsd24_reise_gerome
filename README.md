@@ -15,8 +15,18 @@ Wenn Sie das Programm in der Konsole ausführen wollen, wechsel Sie in den src-O
 2. java CalculatorSys
 ```
 
-*Link zur Datei: [exercise1](exercise1.md)*
+## Übung 1 - Grundlagen Markddown
+Die Strukturen und Befehler der MarkDown kennenzulernen und durch ein einfaches Beispiel zu vertiefen.
+- [exercise1](exercise1.md)
 
+## Übung 2 - Grundlagen GIT
+Erste Befehle eingeben und schauen, welche Auswirkung diese haben. Einen GitHub-Account erstellelt sowie das erste repository.
+- [exercise2](exercise2.md)
+
+
+## Infos Repository (BSD 24/25)
+- [GitHub](https://github.com/ReiseGerome)
+- [Hochschule](https://www.campus02.at/)
 
 
 
