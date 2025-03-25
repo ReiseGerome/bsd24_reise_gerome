@@ -23,10 +23,13 @@ Die Strukturen und Befehler der MarkDown kennenzulernen und durch ein einfaches 
 Erste Befehle eingeben und schauen, welche Auswirkung diese haben. Einen GitHub-Account erstellelt sowie das erste repository.
 - [exercise2](exercise2.md)
 
-
 ## Infos Repository (BSD 24/25)
 - [GitHub](https://github.com/ReiseGerome)
 - [Hochschule](https://www.campus02.at/)
+
+## Link zum Project
+- [exercise2_part2](exercise2_part2.md)
+
 
 
 
