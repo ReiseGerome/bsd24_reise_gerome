@@ -9,3 +9,5 @@ Die Umgebungsvariablen für Maven und Java wurden angepasst.
 ## Schritt 3
 Ein neues Maven Intellj Projekt wurde angelegt und eine neue .md Datei erzeugt
 
+## Nach start des Maven Projektes
+Nachdem man das Programm das erste mal gestartet hat, ist der target Ordner erzeugt worden
