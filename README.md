@@ -30,6 +30,10 @@ Erste Befehle eingeben und schauen, welche Auswirkung diese haben. Einen GitHub-
 ## Link zum Project
 - [exercise2_part2](exercise2_part2.md)
 
+## Übung 3
+- [exercise3.md](exercise3.md)
+- [Logger template](src/main/resources/log4j2.xml)
+
 
 
 

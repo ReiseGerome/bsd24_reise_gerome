@@ -40,6 +40,11 @@ build/
 ### Files ##
 *.pdf
 *.html
+*.log
 
 ### Folders ###
 .idea
+logs/
+
+### xml ###
+src/main/resources/log4j2.xml

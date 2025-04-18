@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="warn">
+    <!-- Console Appender -->
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level: %msg%n%throwable" />
+        </Console>
+
+        <!-- File Appender -->
+        <File name="File" fileName="logs/myapp.log" append="true">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level: %msg%n%throwable" />
+        </File>
+    </Appenders>
+
+    <!-- Logger Configuration -->
+    <Loggers>
+        <!-- Root Logger with DEBUG level -->
+        <Root level="debug">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="File"/>
+        </Root>
+
+        <!-- Custom logger for the Calculator class -->
+        <Logger name="at.campus02.bsd.Calculator" level="debug" additivity="false">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="File"/>
+        </Logger>
+    </Loggers>
+</Configuration>

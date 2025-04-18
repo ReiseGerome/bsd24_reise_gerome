@@ -22,4 +22,5 @@ Bild1:
 Bild2:
 ![Ausgabe Namen](resources/images/ex3_3.png)
 
-
+## Logger
+![Error Ausgabe durch logger](resources/images/ex3_4.png)
